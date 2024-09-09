@@ -148,3 +148,7 @@ footer small {
 .parag1 {
     margin-top: 10px;
 }
+
+.cog-branding_powered {
+    visibility: hidden !important;
+}
