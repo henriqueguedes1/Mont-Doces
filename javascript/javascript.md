@@ -302,3 +302,4 @@ Estrutura: function NomeDaFunção (Parametros) {
     return o que irá aparecer de resultado
 }
 Com isso você pode chamar a função quantas vezes forem necessário sem precisar repetir o código, evitando repetições desnecessárias. 
+
